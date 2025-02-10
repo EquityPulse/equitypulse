@@ -1,5 +1,5 @@
 ## Hi there I'm Mikalai from Belarus 👋
-I'm a Data Analyst. I'm interested in engeneering, finance, investing.
+I'm interested in engeneering, finance, investing.
 
 I'm currently learning data analysis.
 
